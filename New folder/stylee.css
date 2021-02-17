@@ -1,0 +1,77 @@
+
+body {background-color: #9FF781;}
+h2{
+        color: #C81594;
+	text-align:center;
+	font-style: italic;
+        font-size: 30px;
+
+
+}
+hr{
+color:black;}
+h6{text-align:center;
+font-size: 15px;
+}
+
+h1{color: black;
+	text-align:center;
+        font-size: 60px;}
+
+img {
+  border-radius: 50%;
+
+}
+h5
+{
+line-height:1.6em;
+word-spacing: 1.0;
+
+
+}
+
+.accordion {
+  background-color: #9FF781;
+  color: #444;
+  cursor: pointer;
+  border: none;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 40px;
+  transition: 0.5s;
+  width: 300px;
+  padding:15px;
+  margin: 0px 0px 55px 500px;
+  
+line-height:0.1;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+.panel {
+  width: 500px;
+  margin: 0px 0px 55px 400px;
+  background-color: grey;
+  color: black;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  
+}
+
+header {
+  background-color: #D5D8DC;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+
+
+
+
+
